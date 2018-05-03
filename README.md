@@ -32,6 +32,3 @@ Have access to a Bash shell
 * [Building Microservices with .NET Core 2.0 - Second Edition](https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788393331)
 
 * [RESTful Web API Design with Node.js 10 - Third Edition](https://www.packtpub.com/web-development/restful-web-api-design-nodejs-10-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623322)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
