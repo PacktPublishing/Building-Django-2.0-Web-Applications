@@ -32,3 +32,7 @@ Have access to a Bash shell
 * [Building Microservices with .NET Core 2.0 - Second Edition](https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788393331)
 
 * [RESTful Web API Design with Node.js 10 - Third Edition](https://www.packtpub.com/web-development/restful-web-api-design-nodejs-10-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623322)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787286214">https://packt.link/free-ebook/9781787286214 </a> </p>
